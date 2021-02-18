@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EMG - IMU Upsampler 0.1.2", "EMG - IMU Upsampler 0.1.2\EMG - IMU Upsampler 0.1.2.pyproj", "{17156E26-03AB-4B33-983F-5334468D1672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17156E26-03AB-4B33-983F-5334468D1672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17156E26-03AB-4B33-983F-5334468D1672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C2B81E-4B69-486A-9191-90B95681141D}
+	EndGlobalSection
+EndGlobal
